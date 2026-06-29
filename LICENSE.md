@@ -1,4 +1,4 @@
-# 
+# Secure GlassWire scripts for Mac OS | Open Source GlassWire scripts for PC Windows. Featuring scheduled scans and suspicious activity alerts — optimized for maximum performance on every platform.
 
 
 
